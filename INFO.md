@@ -1,2 +1,1 @@
-git is awesome!
-new line line
+pianaja pomjataja
