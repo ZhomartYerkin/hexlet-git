@@ -1,0 +1,27 @@
+ {
+  "name": "hexlet-hello-world",
+  "version": "1.0.0",
+  "description": "A simple Node.js learning project under Hexlet umbrella",
+  "keywords": [
+    "hexlet",
+    "nodejs",
+    "training",
+    "learning",
+    "hello"
+  ],
+  "homepage": "https://github.com/ZhomartYerkin/hexlet-hello-world#readme",
+  "bugs": {
+    "url": "https://github.com/ZhomartYerkin/hexlet-hello-world/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhomartYerkin/hexlet-hello-world.git"
+  },
+  "license": "ISC",
+  "author": "Zhomart Yerkin",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  }
+}
